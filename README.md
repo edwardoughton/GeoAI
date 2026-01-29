@@ -7,3 +7,5 @@ The class focuses on AI as a practical and applied tool for solving geospatial p
 Week 1 notebook link can be found here:
 
 https://colab.research.google.com/github/edwardoughton/GeoAI/blob/main/01_01_GeoAI_intro.ipynb
+
+https://colab.research.google.com/github/edwardoughton/GeoAI/blob/main/02_01_ggs590_geoai_problem_formulation.ipynb
