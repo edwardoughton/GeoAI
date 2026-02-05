@@ -8,4 +8,10 @@ Week 1 notebook link can be found here:
 
 https://colab.research.google.com/github/edwardoughton/GeoAI/blob/main/01_01_GeoAI_intro.ipynb
 
+Week 2 notebook link can be found here:
+
 https://colab.research.google.com/github/edwardoughton/GeoAI/blob/main/02_01_ggs590_geoai_problem_formulation.ipynb
+
+Week 3 notebook link can be found here:
+
+https://colab.research.google.com/github/edwardoughton/GeoAI/blob/main/03_01_ggs590_geoai.ipynb
