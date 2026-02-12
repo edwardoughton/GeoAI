@@ -15,3 +15,7 @@ https://colab.research.google.com/github/edwardoughton/GeoAI/blob/main/02_01_ggs
 Week 3 notebook link can be found here:
 
 https://colab.research.google.com/github/edwardoughton/GeoAI/blob/main/03_01_ggs590_geoai.ipynb
+
+Week 4 notebook link can be found here:
+
+https://colab.research.google.com/github/edwardoughton/GeoAI/blob/main/04_01_ggs590_geoai.ipynb
