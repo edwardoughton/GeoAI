@@ -7,7 +7,7 @@ The class focuses on AI as a practical and applied tool for solving geospatial p
 Funding acknowledgement
 =======================
 
-The preparation of these open-source satellite image analysis materials has been gratefully 
+The preparation of these open-source GeoAI materials has been gratefully 
 supported by research funding from NASA Cooperative Agreement 80NSSC25M0077.
 
 Notebooks
