@@ -1,0 +1,19 @@
+{
+  "run_name": "week7_demo_run",
+  "timestamp_utc": "2026-03-05T13:53:26+00:00",
+  "accuracy": 0.9992748368382887,
+  "balanced_accuracy": 0.9976190476190476,
+  "n_train": 4135,
+  "n_test": 1379,
+  "config": {
+    "run_name": "week7_demo_run",
+    "output_root": "outputs/week7",
+    "random_state": 42,
+    "test_size": 0.25,
+    "n_estimators": 300,
+    "max_depth": 20,
+    "min_class_count": 100,
+    "max_samples_per_class": 2500,
+    "leakage_distance_hint_m": 30.0
+  }
+}
