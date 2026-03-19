@@ -41,3 +41,9 @@ Week 7 notebook link can be found here:
 
 https://colab.research.google.com/github/edwardoughton/GeoAI/blob/main/07_01_ggs590_geoai.ipynb
 
+Week 8 notebook link can be found here:
+
+https://colab.research.google.com/github/edwardoughton/GeoAI/blob/main/08_01_ggs590_geoai.ipynb
+
+
+
