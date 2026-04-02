@@ -49,4 +49,7 @@ Week 9 notebook link can be found here:
 
 https://colab.research.google.com/github/edwardoughton/GeoAI/blob/main/09_01_ggs590_geoai.ipynb
 
+Week 10 notebook link can be found here:
+
+https://colab.research.google.com/github/edwardoughton/GeoAI/blob/main/10_01_ggs590_geoai.ipynb
 
